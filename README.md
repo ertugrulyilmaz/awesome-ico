@@ -66,6 +66,7 @@ Lastly, Ethereum remains one of the largest ICOs to date, raising over $18 milli
 * [IOTA ICO](https://www.youtube.com/watch?v=QSEvawu-Geg) - Top 3 Reasons to Invest in Iota
 * [Everex ICO](https://www.youtube.com/watch?v=CD_Hc9je8ck) - Everex.io ICO Review
 * [Wagerr ICO](https://www.youtube.com/watch?v=ttaIx04pNJU) - Wagerr ICO. Crypto Market Hits $100 Billion
+* [Velix.ID ICO](https://www.youtube.com/watch?v=kEtPGWIHreU) - VXD ICO Update
 
 ## Developers
 
