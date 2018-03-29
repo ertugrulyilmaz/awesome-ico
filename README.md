@@ -14,11 +14,11 @@ A community driven list of useful ICO blogs, articles, videos and tools. This is
 
 ## About
 
-####What is ICO?
+#### What is ICO?
 
 **Initial Coin Offerings**, also known as ICOs is the cryptocurrency version of crowdfunding and are a part of the crypto world that is most likely here to stay. It's one of the easiest and most efficient methods for companies and individuals to fund their projects and for regular users to invest in projects they see value in. An Initial Coin Offering is an event that usually extends over a period of one month or more and in which everyone is allowed to purchase newly issued tokens in exchange for established cryptocurrencies like Bitcoin (BTC) or Ether (ETH).
 
-####History Of ICO
+#### History Of ICO
 
 One of the earliest documented uses of ICOs for a cryptocurrency project was Mastercoin, which was crowdfunded on Bitcointalk forums. Mastercoin is a meta-protocol on top of the Bitcoin blockchain that provides additional features that the base Bitcoin layer doesn’t. The ICO took place during mid-2013. Mastercoin (MSC) raised over 5000 Bitcoin (BTC) at the rate of 100 MSC per BTC sent to an “exodus address” during the ICO phase.
 
